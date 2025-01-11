@@ -9,7 +9,7 @@ A chatbot designed to assist developers in generating code snippets or debugging
 - **Codellama** is specifically trained for Python, enabling it to excel in Python-based coding tasks.
 - **Qwen 2.5** has been trained on diverse datasets, supporting a broader range of languages and problem types.
 ---
-![Model Info](screenshots\Model_info.png)
+![Model Info](screenshots/Model_info.png)
 
 
 ## Approach to Design
@@ -47,7 +47,7 @@ The chatbot was designed with the following goals in mind:
 ### Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/code-assist-chatbot.git
+   git clone https://github.com/arjaiswal2909/Coding-Assistant-using-Ollama.git
    cd code-assist-chatbot
    ```
 
@@ -108,11 +108,11 @@ Given more time, I would explore the following enhancements:
 ## Screenshots
 
 ### 1. Main Interface
-![Main Interface](screenshots/code-generation-example.png)
+![Main Interface](screenshots/Home_Page.png)
 
 ### 2. Code Generation Example
-![Code Generation (1/2)](screenshots\Code_Generation_1.png)
-![Code Generation (2/2)](screenshots\Code_Generation_2.png)
+![Code Generation (1/2)](screenshots/Code_Generation_1.png)
+![Code Generation (2/2)](screenshots/Code_Generation_2.png)
 
 ---
 
